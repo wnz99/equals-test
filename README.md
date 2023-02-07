@@ -2,6 +2,10 @@
 
 https://wearethyme.notion.site/Technical-Test-Frontend-Developer-Equals-Money-3bac253b2edb4d7eb29865d8458d7295
 
+Notes:
+
+I've added a button to create a new contact. It's not in the requirements, but I thought it would be a nice addition, useful for development purposes.
+
 # Deployment
 
 The app is deployed at https://equals-test.vercel.app/
