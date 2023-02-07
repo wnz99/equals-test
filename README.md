@@ -59,7 +59,7 @@ yarn cypress
 
 I've tested a very simple user flow: click on the contacts link, and add a new contact.
 
-# Assumptions
+# Notes
 
 In order to snow some knowledge of Next.js, I've decided to implement two versions of the app:
 
