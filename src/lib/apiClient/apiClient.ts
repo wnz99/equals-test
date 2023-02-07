@@ -34,6 +34,10 @@ const contactsResponseSchema = z.array(contactResponseSchema)
 
 export type Contact = z.infer<typeof contactResponseSchema>
 
+// I've noticed that the API is returning inconsistent data for the birthday field. This could break the app if we don't handle it properly.
+// Therefore I've add validation to the birthday field to make sure it's a valid date. If it's not, I'm returning null.
+// Validation is done using zod.
+
 export const apiClient = {
   getContacts: async () => {
     const response = await instance.get('/contacts')
