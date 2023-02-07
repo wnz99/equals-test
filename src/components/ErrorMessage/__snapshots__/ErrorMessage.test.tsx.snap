@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ErrorMessage /> should render without errors 1`] = `
+<DocumentFragment>
+  <div
+    class="css-eejnqe"
+  >
+    <div
+      class="css-rwk5vx"
+    >
+      <p
+        class="chakra-text css-zwkqrq"
+      >
+        There has been an error.
+      </p>
+      <button
+        class="chakra-button css-4xx2wk"
+        type="button"
+      >
+        Retry
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

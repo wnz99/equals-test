@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ContactCard /> should render without errors 1`] = `
+<DocumentFragment>
+  <div
+    class="chakra-card css-3cb9se"
+  >
+    <div
+      class="chakra-card__body css-0"
+    >
+      <div
+        class="css-gmuwbf"
+      >
+        <img
+          alt="Avatar of Sassy Michelle"
+          class="chakra-image css-j17amb"
+          src="https://www.meme-arsenal.com/memes/3ee2c16ed2c4be36c7b10c89ed27ad13.jpg"
+        />
+      </div>
+      <div
+        class="chakra-stack css-10aolb9"
+      >
+        <h2
+          class="chakra-heading css-0"
+        >
+          Sassy Michelle
+        </h2>
+      </div>
+    </div>
+    <div
+      class="chakra-card__footer css-k008qs"
+    >
+      <div
+        class="chakra-button__group css-1mlmbpp"
+        data-orientation="horizontal"
+        role="group"
+      >
+        <a
+          href="/contacts/130"
+        >
+          <button
+            class="chakra-button css-1fysbuj"
+            type="button"
+          >
+            View
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

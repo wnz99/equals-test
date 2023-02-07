@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ErrorMessage /> should render without errors 1`] = `
+<DocumentFragment>
+  <div
+    class="chakra-card css-yqc9gb"
+  >
+    <div
+      class="chakra-card__body css-0"
+    >
+      <div
+        class="css-1qzlfdv"
+      >
+        <div
+          class="css-gmuwbf"
+        >
+          <img
+            alt="Avatar of Sassy Michelle"
+            class="chakra-image css-1hdc4sn"
+            src="https://www.meme-arsenal.com/memes/3ee2c16ed2c4be36c7b10c89ed27ad13.jpg"
+          />
+        </div>
+        <div
+          class="chakra-stack css-110seo8"
+        >
+          <h2
+            class="chakra-heading css-0"
+          >
+            #130 Sassy Michelle
+          </h2>
+          <p
+            class="chakra-text css-0"
+          >
+            Email: sassy@email.com
+          </p>
+          <p
+            class="chakra-text css-0"
+          >
+            Birthday: 15/11/1963
+          </p>
+          <p
+            class="chakra-text css-0"
+          >
+            Created: 02/03/2023 03:53:58
+          </p>
+        </div>
+      </div>
+      <div
+        class="chakra-collapse"
+        style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+      >
+        <div
+          class="css-1n63tem"
+        >
+          <form>
+            <div
+              class="css-gmuwbf"
+            >
+              <div
+                class="css-1p3fvi7"
+              >
+                <img
+                  alt="avatar"
+                  class="chakra-image css-1em44rg"
+                  src="https://www.meme-arsenal.com/memes/3ee2c16ed2c4be36c7b10c89ed27ad13.jpg"
+                />
+              </div>
+            </div>
+            <div
+              class="chakra-form-control css-0"
+              role="group"
+            >
+              <label
+                class="chakra-form__label css-uvho5g"
+                for="avatar"
+                id="field-:r3:-label"
+              >
+                Avatar
+              </label>
+              <input
+                class="chakra-input css-1oq9rd3"
+                id="avatar"
+                type="file"
+              />
+            </div>
+            <div
+              class="chakra-form-control css-1q7njkh"
+              role="group"
+            >
+              <label
+                class="chakra-form__label css-uvho5g"
+                for="name"
+                id="field-:r4:-label"
+              >
+                Name
+              </label>
+              <input
+                class="chakra-input css-0"
+                id="name"
+                name="name"
+                placeholder="Name"
+                type="text"
+              />
+            </div>
+            <div
+              class="chakra-form-control css-1q7njkh"
+              role="group"
+            >
+              <label
+                class="chakra-form__label css-uvho5g"
+                for="email"
+                id="field-:r5:-label"
+              >
+                Email
+              </label>
+              <input
+                class="chakra-input css-0"
+                id="email"
+                name="email"
+                placeholder="Email"
+                type="email"
+              />
+            </div>
+            <div
+              class="chakra-form-control css-1q7njkh"
+              role="group"
+            >
+              <label
+                class="chakra-form__label css-uvho5g"
+                for="phone"
+                id="field-:r6:-label"
+              >
+                Phone
+              </label>
+              <input
+                class="chakra-input css-0"
+                id="phone"
+                name="phone"
+                placeholder="Phone"
+                type="text"
+              />
+            </div>
+            <div
+              class="chakra-form-control css-1q7njkh"
+              role="group"
+            >
+              <label
+                class="chakra-form__label css-uvho5g"
+                for="birthday"
+                id="field-:r7:-label"
+              >
+                Birthday
+              </label>
+              <input
+                class="chakra-input css-0"
+                id="birthday"
+                name="birthday"
+                placeholder="Birthday"
+                type="text"
+              />
+            </div>
+            <button
+              class="chakra-button css-1rydqik"
+              type="submit"
+            >
+              Save
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div
+      class="chakra-card__footer css-k008qs"
+    >
+      <div
+        class="chakra-button__group css-1mlmbpp"
+        data-orientation="horizontal"
+        role="group"
+      >
+        <button
+          class="chakra-button css-1fysbuj"
+          type="button"
+        >
+          Delete
+        </button>
+        <button
+          class="chakra-button css-1fysbuj"
+          type="button"
+        >
+          Edit
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
