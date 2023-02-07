@@ -4,7 +4,8 @@ https://wearethyme.notion.site/Technical-Test-Frontend-Developer-Equals-Money-3b
 
 Notes:
 
-I've added a button to create a new contact. It's not in the requirements, but I thought it would be a nice addition, useful for development purposes.
+- I've added a button to create a new contact. It's not in the requirements, but I thought it would be a nice addition, useful for development purposes.
+- I've not implemented any image editing feature, but it's probably easy to do with a library. I preferred to focus on the other requirements.
 
 # Deployment
 
