@@ -80,6 +80,8 @@ Chakra UI is a mobile first library, and it makes very easy to deal with respons
 
 However, nowadays, I prefer to delegate it to ready made solutions, if possible.
 
+Im my opinion there's no need of any state management library. Data can be just fetched close to where it's needed.
+
 # Libraries used
 
 ## Chakra UI
